@@ -1,0 +1,33 @@
+h2{
+    text-align: center;
+
+}
+#main{
+    display: flex;
+}
+
+.course{
+    background-color: darkgrey;
+    margin-left: 20px;
+    padding: 20px;
+    box-shadow: 4px 5px 6px grey;
+
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+h3{
+    text-align: center;
+}
+
+button{
+    width: 100%;
+    background-color: chartreuse;
+    color: black;
+    height: 40px;
+    border-radius: 10px;
+
+}

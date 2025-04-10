@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color: #ffffff;
+    font-size: 40px;
+    background-color: #161717;
+    line-height:100px;
+    text-shadow: 4px 8px 8px pink;
+
+}
+
+h1:hover{
+    background-color: aqua;
+}
+
+img{
+    width: 280px;
+    height: 250px;
+}
+
+img:hover{
+    opacity: 0.8;
+}

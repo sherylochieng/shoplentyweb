@@ -1,0 +1,45 @@
+h1{
+
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    color: #c915c0;
+    text-shadow: 8px,8px,8px black;
+
+}
+
+form {
+
+    background-color: #df86d4;
+    width: 50%;
+    padding: 30px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px lightgray;
+}
+
+input[type=text],input[type=email],input[type=password],input[type=tel],input[type=number],input[type=date],input[type=datetime-local],select{
+
+    width:100% ;
+    height: 40px;
+    margin-top:10px ;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow: 8px 8px 8px #dd4496;
+}
+
+button{
+
+    width: 120px;
+    height: 40px;
+    display: block;
+    margin: 0 auto;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+}
+
+body{
+    background-image: url("../assets/img_6.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
